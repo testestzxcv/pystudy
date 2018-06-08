@@ -1,1 +1,1 @@
-print(10)se
+print(10)
