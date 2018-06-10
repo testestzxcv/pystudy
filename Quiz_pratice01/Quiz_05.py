@@ -25,4 +25,4 @@ for word in s:
         d[word] = 1
 
 for i in d:
-    print(i,d[i])
+    print('{0}:{1}'.format(i,d[i]))
